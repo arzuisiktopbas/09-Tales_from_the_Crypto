@@ -30,19 +30,19 @@ Finally, I generated word clouds for each coin to summarize the news for each co
 
  **Bitcoin Word Cloud**
  
-![btc-word-cloud.png](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2309/Images/bitcoin_word_cloud.png)
+![btc-word-cloud.png](https://github.com/arzuisiktopbas/09-Tales_from_the_Crypto/blob/main/Images/bitcoin_word_cloud.png)
 
 **Ethereum Word Cloud**
 
-![eth-word-cloud.png](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2309/Images/ethereum_word_cloud.png)
+![eth-word-cloud.png](https://github.com/arzuisiktopbas/09-Tales_from_the_Crypto/blob/main/Images/ethereum_word_cloud.png)
 
 #### 3 - Named Entity Recognition
 
 In this section, I built a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner.png](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2309/Images/Bitcoin_ner.png)
+![btc-ner.png](https://github.com/arzuisiktopbas/09-Tales_from_the_Crypto/blob/main/Images/Bitcoin_ner.png)
 
-![eth-ner.png](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2309/Images/Ethereum_ner.png)
+![eth-ner.png](https://github.com/arzuisiktopbas/09-Tales_from_the_Crypto/blob/main/Images/Ethereum_ner.png)
 
 ---
 
