@@ -1,10 +1,10 @@
-# Unit 12—Tales from the Crypto
+# Tales from the Crypto
   by Arzu Isik Topbas
 
 
 ## Background
 
-In this assignment, I applied natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. I also applied fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
+I applied natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. I also applied fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
 
 
 #### 1 - Sentiment Analysis
